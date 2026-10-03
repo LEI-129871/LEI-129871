@@ -23,7 +23,7 @@
 <h2 align="center">💻 Skills 💻</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,java,python,mysql,scala,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,java,python,scala,vscode,idea" />
 </div>
 
 ---
