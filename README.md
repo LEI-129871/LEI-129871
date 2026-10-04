@@ -17,6 +17,7 @@
 - 🌱 Learning: **[ex: Scala, Java, Python]**
 - 🤝 Open to collaborating on **[ex: university projects, open source]**
 - 💬 Ask me about: **[ex: Java, Python, databases]**
+- 💡 **Fun Fact:** Able to carry a team in LoL.
 
 ---
 
